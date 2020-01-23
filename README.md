@@ -1,1 +1,1 @@
-This project was used to generate the frames for [this animation](https://www.youtube.com/watch?v=2PqFIOkhUSk). The code that performs and exports the captures is in scenes/RetroComputer.gd
+This project was used to generate the frames for [this animation](https://www.youtube.com/watch?v=2PqFIOkhUSk). The code that performs and exports the captures is in scenes/RetroComputer.gd. the `capture_frame` and `export_frames` methods are called by a method call animation track.
